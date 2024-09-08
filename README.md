@@ -1,2 +1,2 @@
 # project-recipes
-Odin foundation course assignment
+Odin Landing Page
